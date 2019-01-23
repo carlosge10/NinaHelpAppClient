@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NinaHelpHandyApp</string>
+    <string name="sucursales_prompt">Sucursal</string>
+
+    <string-array name="sucursales_array">
+        <item>Colon</item>
+        <item>Fresno</item>
+        <item>Gomez Palacio</item>
+        <item>Juarez</item>
+        <item>Plaza 505</item>
+        <item>Saltillo 400</item>
+        <item>San Isidro</item>
+        <item>Senderos</item>
+        <item>Tecnologico</item>
+        <item>Torreon Jardin</item>
+    </string-array>
+</resources>
